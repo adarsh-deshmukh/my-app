@@ -6,7 +6,7 @@ import TextForm from './components/TextForm';
 import Alert from './components/Alert';
 import About from './components/About';
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
